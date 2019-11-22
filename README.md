@@ -1,5 +1,5 @@
 
-注意：本项目已经停止维护，新版访问：https://github.com/CodeNeedWho/JsDroidCmd/
+注意：本项目已经停止维护，新版访问：https://github.com/CodeNeedWho/JsDroidMobile
 
 ### 简介
 本项目是JsDroid的核心代码，编译后是一个通过app_process启动的命令apk，类似uiautomator.apk(/system/framework/uiautomator.jar)。<br><br>
